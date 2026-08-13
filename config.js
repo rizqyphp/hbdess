@@ -21,7 +21,7 @@ window.birthdayConfig = {
   // ---------------------------------------------------------
   opening: {
     photo: "assets/images/WhatsApp Image 2026-08-13 at 15.42.57.jpeg",
-    eyebrow: "A gift, sort of",
+    eyebrow: "A gift, from kyy",
     title: "Happy Birthday,\nSayang",
     subtitle: "I made something for you...",
     buttonLabel: "Open"
