@@ -11,10 +11,10 @@
   ============================================================
 */
 
-const birthdayConfig = {
+window.birthdayConfig = {
 
   // Nama yang dirayakan — muncul di opening screen & ending
-  name: "Alya",
+  name: "LISTIAWATI PUTRI PANGESTU",
 
   // ---------------------------------------------------------
   // OPENING SCREEN
@@ -22,7 +22,7 @@ const birthdayConfig = {
   opening: {
     photo: "assets/images/cover.jpg",
     eyebrow: "A gift, sort of",
-    title: "Happy Birthday,\nAlya",
+    title: "Happy Birthday,\nSayang",
     subtitle: "I made something for you...",
     buttonLabel: "Open"
   },
@@ -33,7 +33,7 @@ const birthdayConfig = {
   hero: {
     cover: "assets/images/cover.jpg",
     eyebrow: "Our Story",
-    title: "Alya",
+    title: "Estu",
     description: "A little collection of our memories."
   },
 
@@ -41,8 +41,8 @@ const birthdayConfig = {
   // LAGU — file MP3 kamu sendiri
   // ---------------------------------------------------------
   song: {
-    title: "Hey There Delilah",
-    artist: "Plain White T's",
+    title: "Our Song",
+    artist: "Our little playlist",
     file: "assets/music/Plain_White_T_s_-_Hey_There_Delilah_New_Version_(mp3.pm)"
   },
 
