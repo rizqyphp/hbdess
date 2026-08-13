@@ -43,7 +43,7 @@ window.birthdayConfig = {
   song: {
     title: "Our Song",
     artist: "Our little playlist",
-    file: "assets/music/Plain_White_T_s_-_Hey_There_Delilah_New_Version_(mp3.pm)"
+    file: "assets/music/Hey_There_Delilah_New_Version.mp3"
   },
 
   // ---------------------------------------------------------
