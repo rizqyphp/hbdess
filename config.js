@@ -14,13 +14,13 @@
 window.birthdayConfig = {
 
   // Nama yang dirayakan — muncul di opening screen & ending
-  name: "LISTIAWATI PUTRI PANGESTU",
+  name: "ESTU",
 
   // ---------------------------------------------------------
   // OPENING SCREEN
   // ---------------------------------------------------------
   opening: {
-    photo: "assets/images/cover.jpg",
+    photo: "assets/images/WhatsApp Image 2026-08-13 at 15.42.57.jpeg",
     eyebrow: "A gift, sort of",
     title: "Happy Birthday,\nSayang",
     subtitle: "I made something for you...",
@@ -31,9 +31,9 @@ window.birthdayConfig = {
   // HERO / ALBUM SECTION — tampil setelah OPEN ditekan
   // ---------------------------------------------------------
   hero: {
-    cover: "assets/images/cover.jpg",
+    cover: "assets/images/WhatsApp Image 2026-08-13 at 15.42.57.jpeg",
     eyebrow: "Our Story",
-    title: "Estu",
+    title: "LISTIAWATI PUTRI PANGESTU",
     description: "A little collection of our memories."
   },
 
@@ -41,8 +41,8 @@ window.birthdayConfig = {
   // LAGU — file MP3 kamu sendiri
   // ---------------------------------------------------------
   song: {
-    title: "Our Song",
-    artist: "Our little playlist",
+    title: "Hey There Delilah",
+    artist: "Plain White T's",
     file: "assets/music/our-song.mp3.mp3"
   },
 
@@ -52,24 +52,24 @@ window.birthdayConfig = {
   // ---------------------------------------------------------
   memories: [
     {
-      label: "First Memory",
-      image: "assets/images/memory-01.jpg",
-      text: "The first time we talked, I didn't know it would turn into this. A random conversation that somehow never really ended."
+      label: "",
+      image: "assets/images/WhatsApp Image 2026-08-13 at 15.47.46.jpeg",
+      text: "Hai sayang, semoga waktu kamu membaca semua ini keadaan kamu lagi happy ya, atau mungkin yang awalnya sedih bisa jadi happy :), ini foto entah kapan kamu ambil tapi tadinya aku nyari foto pertama kamu yg aku lihat yang pakai cadar entah warna apa aku lupa maybe ungu, wanita yg aku lihat kala itu masih tergolong muda tapi sekarang ia telah perlahan berlanjak dewasa."
     },
     {
-      label: "Our Favorite Moment",
-      image: "assets/images/memory-02.jpg",
-      text: "That one afternoon we couldn't stop laughing over nothing in particular. I still think about it more than I probably should."
+      label: "",
+      image: "assets/images/WhatsApp Image 2026-08-13 at 15.49.30.jpeg",
+      text: "Entah kenapa difoto ini kamu terlihat sangat cantik dan menggemaskan buat aku, walaupun sebenarnya kamu selalu cantik dimata aku tapi terkadang kamu tidak percaya itu."
     },
     {
-      label: "Little Things",
-      image: "assets/images/memory-03.jpg",
-      text: "The voice notes at 2am, the songs you sent \u201cjust because,\u201d the way you always steal the last bite. Small things, kept anyway."
+      label: "",
+      image: "assets/images/WhatsApp Image 2026-08-13 at 15.50.44.jpeg",
+      text: "Aku masih ingat gimana lelahnya kamu bekerja saat awal awal kita bersama, kamu banyak bercerita tentang masalah pekerjaan ataupun tentang rekan kerja bahkan sampai sekarang.Di posisi lelahnya kamu bahkan kamu selalu memaksakan tubuh kamu untuk bekerja lebih keras lagi dibanding orang lain, mungkin orang lain tidak sadar akan itu tapi aku yg selalu ada disamping kamu, aku sadar akan hal itu dan khawatir jika kamu kenapa-napa."
     },
     {
-      label: "Our Journey",
-      image: "assets/images/memory-04.jpg",
-      text: "From strangers to this. I don't think either of us planned it, and that's kind of my favorite part."
+      label: "",
+      image: "assets/images/WhatsApp Image 2026-08-13 at 15.51.16.jpeg",
+      text: "Aku suka foto ini entah kenapa akupun bingung tapi kamu terlihat sangat menggemaskan disitu, terkadang aku tidak menyangka aku bisa memilikimu sampai saat ini dan bahkan terkadang aku bingung bagaimana cara membuatmu bahagia dengan banyak kurangnya aku, tapi entah apapun itu aku selalu mencoba berada disamping kamu untuk selalu membuat kamu merasa nyaman dan aman, tapi terkadang mungkin aku salah menanggapimu sampai tak sengaja membuat luka yg ada di hati kamu, maaf ya sayang aku selalu mencoba yang terbaik dan mencoba untuk selalu membahagiakan kamu."
     }
   ],
 
@@ -79,17 +79,17 @@ window.birthdayConfig = {
   letter: {
     label: "A Letter For You",
     heading: "Before you close this...",
-    body: "I wanted to make you something instead of just saying it. Thank you for every ordinary day you made feel like an occasion. I hope this year gives you everything you quietly hope for, and I hope I get to keep showing up in it.\n\nHappy birthday. I mean all of it."
+    body: "Terimakasih untuk semua hal kecil, tawa, cerita, dan setiap momen yang udah kita lewatin bareng bareng.Mungkin aku nggak selalu mudah atau pintar mengungkapkannya, tapi aku benar benar bersyukur bisa punya kamu di hidup aku.\n\nSemoga ke depannya kita masih bisa selalu bersama membuat banyak cerita dan lebih banyak mernikmati hari bersama.Jangan lupa baca doa ya kamu sayang, sama seperti doa yang selalu aku ucapkan sambil mengucapkan kamu ingin tidur, semoga kamu dan keluarga sehat sehat terus dan semoga selalu dipermudah dan dilancarkan untuk kerjaan dan rezekinya.\n\nSemoga dihari bertambahnya usia kamu, kamu jadi orang yang lebih baik lagi ya sayang diberbagai aspek semoga kamu bisa menjadi lebih dewasa juga dan segala yang kamu impikan semoga tercapai, dan semoga kita bisa lekas bertemu kembali ya sayang, maaf mas gk bisa ngasih apa apa ya sayang.\n\nHappy Birthday Sayang, Love U."
   },
 
   // ---------------------------------------------------------
   // ENDING
   // ---------------------------------------------------------
   ending: {
-    photo: "assets/images/memory-04.jpg",
+    photo: "assets/images/WhatsApp Image 2026-08-13 at 15.42.57.jpeg",
     eyebrow: "One Last Thing...",
-    title: "Happy Birthday,\nAlya",
+    title: "Happy Birthday,\nSayang",
     message: "Thank you for being part of my life.",
-    signature: "— with love"
+    signature: "— kyy with love"
   }
 };
